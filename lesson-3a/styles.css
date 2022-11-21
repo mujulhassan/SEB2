@@ -1,0 +1,70 @@
+body {
+  background-color: rgb(230, 230, 230);
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  text-align: right;
+}
+
+h2{
+    text-align: center;
+    width: 300;
+    font-weight: bold;
+
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  color: rgb(43, 43, 43);
+  text-align: justify;
+}
+
+th {
+    text-align: left;
+}
+
+table {
+    width: 500px;
+    margin: 0 auto;
+}
+
+td {
+    text-align: center;
+}
+
+.tableOne {
+    width: 500px;
+    height: 300px;
+}
+
+.maintitle {
+    font-size: 3.2rem;
+    text-align: center;
+}
+.minortitle {
+    font-size: 2.4rem;
+    font-weight: normal;
+}
+.para {
+    font-size: 2rem;
+}
+
+.longtext {
+    text-indent: 50px;
+    font: bold italic 40px/60px Arial /* bold italic font-size/line-height family */
+}
+
+.p1 {
+    color: red;
+    text-decoration: overline;
+}
+.p2 {
+    color: green;
+    text-decoration: line-through;
+}
+
+.p3 {
+    color: black;
+    text-decoration: underline;
+}
